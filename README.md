@@ -1,32 +1,31 @@
-<!--  HeadLine -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Aditi!</h1>
-<!--  HeadLine Ends -->
+<h1 align="center">Hi 👋 I'm Aditi</h1>
+
+<h3 align="center">A full stack developer from India 🇮🇳, currently pursuing Masters in Computer Science at Arizona State University👩🏻‍💻</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=aadiiitiii alt=aadiiitiii/> </p>
+
+- 💬 Ask me about **python, GCP or absolutely anything**
+
+- 📫 Reach me at **aditisjoshi14@gmail.com**
+
+- 👨‍💻 All of my projects are available at [aadiiitiii](https://aadiiitiii.github.io)
+
+- ⚡ Fun fact **Coffee tastes way better than Chai, Change my mind!☕**
 
 ### GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aadiiitiii&show_icons=true&include_all_commits=true&theme=prussian" alt="Aditi's GitHub stats" />
 </a>
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiitiii&layout=compact&theme=prussian" />
 </a>
+<br>
 
-<!--  Connect With me -->
-  <h3 align="left">My Socials:</h3>
-  <p align="left">
-  <!--  LinkedIn  -->
-  <a href="https://linkedin.com/in/aadiiitiii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadiiitiii/" height="30" width="40" /></a>
-  <!--  Instagram  -->
-  <a href="https://instagram.com/aadiiitiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadiiitiii" height="30" width="40" /></a>
-  <!--  Twitter  -->
-  <a href="https://twitter.com/aadiiitiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadiiitiii" height="30" width="40" /></a>
-  <!--  HackerRank  -->
-  <a href="https://www.hackerrank.com/aadiiitiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aadiiitiii" height="30" width="40" /></a>
-  <!--  LeetCode  -->
-  <a href="https://leetcode.com/aadiiitiii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="aadiiitiii" height="30" width="40" /></a>
-  </p>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=ameygoes&">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadiiitiii&layout=compact&theme=prussian" alt="aadiiitiii" />
+</a>
 
   <hr size="1">
   <h3 align="left">My Skills</h3>
@@ -98,6 +97,20 @@
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <!-- PostMan -->
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  </p>
+  
+
+<!--  Connect With me -->
+  <h3 align="left">My Socials:</h3>
+  <p align="left">
+  <!--  LinkedIn  -->
+  <a href="https://linkedin.com/in/aadiiitiii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadiiitiii/" height="30" width="40" /></a>
+  <!--  Instagram  -->
+  <a href="https://instagram.com/aadiiitiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadiiitiii" height="30" width="40" /></a>
+  <!--  Twitter  -->
+  <a href="https://twitter.com/aadiiitiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadiiitiii" height="30" width="40" /></a>
+  <!--  HackerRank  -->
+  <a href="https://www.hackerrank.com/aadiiitiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aadiiitiii" height="30" width="40" /></a>
   </p>
 
 
