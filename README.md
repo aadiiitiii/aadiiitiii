@@ -1,5 +1,5 @@
 <!--  HeadLine -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aditi!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Aditi!</h1>
 <!--  HeadLine Ends -->
 
 ### Reach out to me 📫
