@@ -109,8 +109,6 @@
   <a href="https://instagram.com/aadiiitiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadiiitiii" height="30" width="40" /></a>
   <!--  Twitter  -->
   <a href="https://twitter.com/aadiiitiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadiiitiii" height="30" width="40" /></a>
-  <!--  HackerRank  -->
-  <a href="https://www.hackerrank.com/aadiiitiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aadiiitiii" height="30" width="40" /></a>
   </p>
 
 
