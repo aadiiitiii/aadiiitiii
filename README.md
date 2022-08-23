@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 📫 How to reach me: <br>
-  [![Linkedin Badge](https://img.shields.io/badge/-ShivajiSawant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/aadiiitiii/) <br>
-  [![Gmail Badge](https://img.shields.io/badge/-sawantshivaji1997@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditisjoshi14@gmail.com)](mailto:aditisjoshi14@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-AditiJoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/aadiiitiii/) <br>
+  [![Gmail Badge](https://img.shields.io/badge/-aditisjoshi14@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditisjoshi14@gmail.com)](mailto:aditisjoshi14@gmail.com)
 
 <!--
 **aadiiitiii/aadiiitiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
