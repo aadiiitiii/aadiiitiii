@@ -3,7 +3,7 @@
 <!--  HeadLine Ends -->
 
 ### Reach out to me 📫
-  [![Linkedin Badge](https://img.shields.io/badge/-AditiJoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/aadiiitiii/) <br>
+  [![Linkedin Badge](https://img.shields.io/badge/-AditiJoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aadiiitiii/)](https://www.linkedin.com/in/aadiiitiii/) <br>
   [![Gmail Badge](https://img.shields.io/badge/-aditisjoshi14@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditisjoshi14@gmail.com)](mailto:aditisjoshi14@gmail.com)
 
 
