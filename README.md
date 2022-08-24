@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aditi</h1>
-<h3 align="center">A passionate full stack developer from India. Currently pursuing Masters in Computer Science at Arizona State University</h3>
+<h1 align="center">Hi 👋, I'm Aditi Joshi</h1>
+<h3 align="center">Self-driven, quick starter, passionate programmer with a curious mind who enjoys solving a complex and challenging real-world problems.  Currently pursuing Masters in Computer Science at Arizona State University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadiiitiii&label=Profile%20views&color=0e75b6&style=flat" alt="aadiiitiii" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://aadiiitiii.github.io/](https://aadiiitiii.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://aadiiitiii.github.io/)
 
 - 📫 How to reach me **aditisjoshi14@gmail.com**
 
-- 📄 Know about my experiences [https://aadiiitiii.github.io/assets/resume/Aditi_Joshi_Resume.pdf](https://aadiiitiii.github.io/assets/resume/Aditi_Joshi_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://aadiiitiii.github.io/assets/resume/Aditi_Joshi_Resume.pdf)
 
 - ⚡ Fun fact **Coffee tastes way better than Chai, Change my mind!**
 
