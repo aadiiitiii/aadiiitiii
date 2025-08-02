@@ -1,8 +1,3 @@
-Here’s a **combined and enhanced version** of your GitHub `README.md`, merging the concise professionalism from your recent draft with the categorized tech stack and stronger personal branding:
-
----
-
-```markdown
 <h1 align="center">Hi 👋, I'm Aditi Joshi</h1>
 <h3 align="center">Software Engineer @ Palo Alto Networks | Building reliable, scalable, and secure systems</h3>
 
@@ -107,8 +102,3 @@ Here’s a **combined and enhanced version** of your GitHub `README.md`, merging
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
   </a>
 </p>
-```
-
----
-
-Let me know if you'd like a **dark/light mode toggle**, a **skills badge layout**, or **automated blog/article sections** too!
